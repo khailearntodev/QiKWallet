@@ -1,4 +1,4 @@
-package com.finflow.qikwallet;
+package com.qika.qikwallet;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

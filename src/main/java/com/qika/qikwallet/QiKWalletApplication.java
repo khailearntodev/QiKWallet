@@ -1,6 +1,5 @@
-package com.finflow.qikwallet;
+package com.qika.qikwallet;
 
-import jakarta.annotation.PostConstruct;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
